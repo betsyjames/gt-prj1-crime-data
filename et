@@ -1,0 +1,248 @@
+[33mcommit 25273f77ee547b0d0ad3960a747aee810bb1fbb0[m[33m ([m[1;36mHEAD -> [m[1;32mjoe[m[33m, [m[1;31morigin/joe[m[33m)[m
+Author: Joseph Kim <joekimga@gmail.com>
+Date:   Fri Feb 12 18:47:48 2021 -0500
+
+    Reroute directory for main
+
+[33mcommit 606437f14baae786cb50197e653e1af30fb786c0[m
+Author: Joseph Kim <joekimga@gmail.com>
+Date:   Fri Feb 12 02:07:40 2021 -0500
+
+    some salvage
+
+[33mcommit 5225d22347d96b5d41bf58dd0f1e476a9b084253[m
+Merge: b6e830c f288df2
+Author: Joseph Kim <joekimga@gmail.com>
+Date:   Thu Feb 11 17:41:55 2021 -0500
+
+    Merge branch 'sophie' of github.com:betsyjames/gt-prj1-crime-data into joe
+
+[33mcommit b6e830cd0db7c663dac9359d3cf41f1b20d66f11[m
+Merge: 64d13de f1fbcc6
+Author: Joseph Kim <joekimga@gmail.com>
+Date:   Thu Feb 11 17:41:32 2021 -0500
+
+    Merge branch 'betsy' of github.com:betsyjames/gt-prj1-crime-data into joe
+
+[33mcommit f288df2672b2d62f2f36bce0cab630b3f4588954[m[33m ([m[1;31morigin/sophie[m[33m)[m
+Author: sophiegtc <s.qiao2006@gmail.com>
+Date:   Wed Feb 10 23:07:23 2021 -0500
+
+    update
+
+[33mcommit f1fbcc6b3c3ec91fa58d6d4724aab056502c39f5[m
+Author: Betsy James <betsyjames93@gmail.com>
+Date:   Wed Feb 10 22:48:22 2021 -0500
+
+    percentage change
+
+[33mcommit 28903b811ec9d76fd2289964b9419d26fc1d2a5a[m
+Author: sophiegtc <s.qiao2006@gmail.com>
+Date:   Wed Feb 10 17:35:33 2021 -0500
+
+    update 2-10-2021
+
+[33mcommit 64d13decb94c1b49f7ae81778e3c2450ad89b0d4[m
+Author: Joseph Kim <joekimga@gmail.com>
+Date:   Wed Feb 10 12:19:09 2021 -0500
+
+    Rebbery
+
+[33mcommit b25a6efd241f06a45548a8a9602f842de279d51f[m
+Merge: ad93dc3 ed03a12
+Author: Joseph Kim <joekimga@gmail.com>
+Date:   Wed Feb 10 12:07:12 2021 -0500
+
+    Merge branch 'betsy' of github.com:betsyjames/gt-prj1-crime-data into joe
+
+[33mcommit ad93dc3ce90825e2d7eacc7dc18c92d7dfed8f56[m
+Merge: 6f9a445 afc64a6
+Author: Joseph Kim <joekimga@gmail.com>
+Date:   Wed Feb 10 12:07:04 2021 -0500
+
+    Merge branch 'kelly' of github.com:betsyjames/gt-prj1-crime-data into joe
+
+[33mcommit afc64a6dc67f5ca44b492117f9974d8bfb45ea40[m
+Author: unknown <cayelsie@gmail.com>
+Date:   Wed Feb 10 11:59:54 2021 -0500
+
+    Contains looping code to calculate percent change year by year
+
+[33mcommit 6f9a4455692dc875a0b9c21e735ac5ee5c6220c1[m
+Merge: 5c4169f 1d65b7d
+Author: Joseph Kim <joekimga@gmail.com>
+Date:   Wed Feb 10 03:30:00 2021 -0500
+
+    graph redos
+
+[33mcommit ed03a12ed83f75aa23c6d05ab8a1a813336632ea[m
+Author: Betsy James <betsyjames93@gmail.com>
+Date:   Tue Feb 9 22:03:11 2021 -0500
+
+    added for 2018
+
+[33mcommit 1d65b7d6cc3edb6ec4a6ae11ba74af4e18e03b36[m
+Author: sophiegtc <s.qiao2006@gmail.com>
+Date:   Tue Feb 9 18:29:26 2021 -0500
+
+    First push
+
+[33mcommit 5c4169f40ca2e5d8d6e59559df79c56e158cdd7b[m
+Merge: ce4b4a3 5c9fe8b
+Author: Joseph Kim <joekimga@gmail.com>
+Date:   Mon Feb 8 22:51:55 2021 -0500
+
+    Merge branch 'betsy' of github.com:betsyjames/gt-prj1-crime-data into joe
+
+[33mcommit ce4b4a34f25db5f149837d6e51b1718be2ef3823[m
+Merge: a685d49 dbc116f
+Author: Joseph Kim <joekimga@gmail.com>
+Date:   Mon Feb 8 22:51:48 2021 -0500
+
+    Merge branch 'kelly' of github.com:betsyjames/gt-prj1-crime-data into joe
+
+[33mcommit dbc116fb3a63547a5b27019270c7d951e2fe687b[m
+Author: unknown <cayelsie@gmail.com>
+Date:   Mon Feb 8 22:28:15 2021 -0500
+
+    Broke out homicides because the numbers get overwhelmed in overall graph. Most homicides in 11 years in 2020. That is an interesting point.
+
+[33mcommit 5c9fe8ba51d5d8c2e9c1de820b1d51879c567f51[m
+Author: Betsy James <betsyjames93@gmail.com>
+Date:   Mon Feb 8 21:36:03 2021 -0500
+
+    month to month for year 2019-2020
+
+[33mcommit d8df912e8ab48dcf5b8e0290775a8e264cb35d1c[m
+Author: unknown <cayelsie@gmail.com>
+Date:   Mon Feb 8 21:32:21 2021 -0500
+
+    Added a skeleton ppt. I didn't DO the presentation, just got us started with a template.
+
+[33mcommit 8879ad2b72bca88c79b4ded15f42908d621b0d09[m
+Author: Betsy James <betsyjames93@gmail.com>
+Date:   Mon Feb 8 20:53:52 2021 -0500
+
+    months plotted
+
+[33mcommit 2ac1c1201644569764f99e9a446f52bf3970acf4[m
+Author: unknown <cayelsie@gmail.com>
+Date:   Mon Feb 8 13:46:03 2021 -0500
+
+    Some work breaking out types of crime by time of day, including some interesting work on burglaries: they especially dropped in the morning and afternoon - maybe due to folks being home in pandemic
+
+[33mcommit a685d495db9658a0b0c9577470570613aeaf1ea4[m
+Author: Joseph Kim <joekimga@gmail.com>
+Date:   Mon Feb 8 02:57:35 2021 -0500
+
+    cleanup
+
+[33mcommit d014f9ab0b95fddffb6b10f67ffdf068f4fca357[m
+Merge: f2d55ad a9afc62
+Author: Joseph Kim <joekimga@gmail.com>
+Date:   Mon Feb 8 02:24:50 2021 -0500
+
+    Merge branch 'kelly' of github.com:betsyjames/gt-prj1-crime-data into joe
+
+[33mcommit f2d55ade61528208963730a4be274a8794b04395[m
+Author: Joseph Kim <joekimga@gmail.com>
+Date:   Mon Feb 8 01:45:40 2021 -0500
+
+    graphs
+
+[33mcommit a9afc62c5b83fd517cbae0efa3ad40392323bd6e[m
+Author: unknown <cayelsie@gmail.com>
+Date:   Sun Feb 7 17:57:31 2021 -0500
+
+    Changed time category for any entries set to 2400 hours to late/early, intitial plotting of time of day data
+
+[33mcommit 0b5981c9e8d8da5e18441440a24a5a6581f5b278[m
+Author: unknown <cayelsie@gmail.com>
+Date:   Sun Feb 7 14:52:23 2021 -0500
+
+    Work binning time of day categories - all snags with data and binning fixed
+
+[33mcommit 7994582e98c872267f792b7bd9523883b85c529e[m
+Merge: b9255b7 797d2c7
+Author: Joseph Kim <joekimga@gmail.com>
+Date:   Sat Feb 6 21:29:41 2021 -0500
+
+    Merge branch 'kelly' of github.com:betsyjames/gt-prj1-crime-data into joe
+
+[33mcommit 797d2c7bdcbe90ce002df71a62268fc0ee4f30cd[m
+Author: unknown <cayelsie@gmail.com>
+Date:   Sat Feb 6 20:51:32 2021 -0500
+
+    Contains additional graphs with #crimes vs year/type and consolidation of dataframe headings so burglary and robbery classifications in 2009-2019 match 2020
+
+[33mcommit b9255b74a54795812803971d4815ae19f0e8ba51[m
+Merge: 71cd7bf e06a879
+Author: Joseph Kim <joekimga@gmail.com>
+Date:   Sat Feb 6 19:21:45 2021 -0500
+
+    Merge branch 'kelly' of github.com:betsyjames/gt-prj1-crime-data into joe
+
+[33mcommit e06a87948d7d2f99c6cbfff1a20552bb8ea8fa3d[m
+Author: unknown <cayelsie@gmail.com>
+Date:   Sat Feb 6 18:23:57 2021 -0500
+
+    Includes work for removing duplicates, checking accuracy, initial plots and exported csv with duplicates dropped
+
+[33mcommit 71cd7bf507bf2e742f15dd084693513ddf12811e[m
+Author: Joseph Kim <joekimga@gmail.com>
+Date:   Sat Feb 6 04:34:08 2021 -0500
+
+    name change
+
+[33mcommit a6b89c4033cdba54056feeeb94277780941eec45[m
+Merge: 1d7ed7c 179850e
+Author: Joseph Kim <joekimga@gmail.com>
+Date:   Sat Feb 6 04:24:14 2021 -0500
+
+    Merge branch 'kelly' of github.com:betsyjames/gt-prj1-crime-data into joe
+
+[33mcommit 179850e25e00db89ef596a35ef55f9fb8a7b13d9[m[33m ([m[1;32mkelly[m[33m)[m
+Author: unknown <cayelsie@gmail.com>
+Date:   Fri Feb 5 20:42:32 2021 -0500
+
+    A couple of preliminary graphs by year
+
+[33mcommit 1d7ed7c5dc2092d1a14daa4cd8e3d1be557bad9f[m
+Merge: 3bbb914 4c42ad6
+Author: Joseph Kim <joekimga@gmail.com>
+Date:   Thu Feb 4 20:45:23 2021 -0500
+
+    Merge branch 'gbs' of github.com:betsyjames/gt-prj1-crime-data into joe
+
+[33mcommit 4c42ad6f24008c89bc9cd4fcd802a446f890e710[m[33m ([m[1;32mgbs[m[33m)[m
+Author: graceloveora123 <grace.bo.sun06@gmail.com>
+Date:   Thu Feb 4 20:29:00 2021 -0500
+
+     On branch gbs
+
+[33mcommit fdc513f5b1aaf43466a3fcf76a4b88e66b029c93[m
+Author: unknown <cayelsie@gmail.com>
+Date:   Thu Feb 4 20:20:45 2021 -0500
+
+    Adding Kelly folder
+
+[33mcommit fcc9dba22ed18f8e35c0c012bb1b94f759ad451e[m[33m ([m[1;32msophie[m[33m)[m
+Author: sophiegtc <s.qiao2006@gmail.com>
+Date:   Thu Feb 4 20:20:39 2021 -0500
+
+    Added Sophie folder and text file
+
+[33mcommit 88403c2e9d4372fd856b30a62c902e87d3cebec3[m
+Author: unknown <cayelsie@gmail.com>
+Date:   Thu Feb 4 20:17:07 2021 -0500
+
+    Adding branch
+
+[33mcommit b9e0c69c1989707a66268ef1fa5849bab993ab14[m[33m ([m[1;32mbetsy[m[33m)[m
+Author: Betsy James <betsyjames93@gmail.com>
+Date:   Thu Feb 4 19:23:26 2021 -0500
+
+    Add notebook
+
+[33mcommit 3bbb91435d8fbd38cb05a535e21440df5910f03f[m
+Author: Joseph Kim <joekimg
